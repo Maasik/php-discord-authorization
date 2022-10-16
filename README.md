@@ -16,3 +16,8 @@
 ![Перейдите во вкладку oauth2 > URL Generator](https://github.com/sscefalix/php-discord-authorization/blob/main/images/to_url_generator.png?raw=true)
 8. Укажите SCOPES: identify, email и выберите REDIRECT_URI и скопируйте ссылку, вставьте в конфиг
 ![Укажите SCOPES: identify, email и выберите REDIRECT_URI и скопируйте ссылку, вставьте в конфиг](https://github.com/sscefalix/php-discord-authorization/blob/main/images/url_generator.png?raw=true)
+
+9. Запустите сайт с помощью любого веб сервера:
+https://ospanel.io
+https://apache.org
+https://nginx.org
